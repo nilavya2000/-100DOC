@@ -11,5 +11,4 @@
 
 
 
-## LISENCE
-(https://github.com/nilavya2000/100DaysOfCode/blob/master/LICENSE.md)
+## [LISENCE] (https://github.com/nilavya2000/100DaysOfCode/blob/master/LICENSE.md)]
