@@ -11,7 +11,7 @@ def binary():
 
 ###################
 root=Tk()
-root.title("MINI CONVERTER")
+root.title("BINARY ADDITION")
 root.geometry("600x600")
 Fno=StringVar()
 Sno=StringVar()
